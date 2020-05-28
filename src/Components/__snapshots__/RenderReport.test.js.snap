@@ -1,0 +1,189 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RequestReport 1`] = `
+<div
+  className="mdc-layout-grid"
+>
+  <div
+    className="mdc-layout-grid__inner"
+  >
+    <div
+      className="mdc-layout-grid__cell mdc-layout-grid__cell--align-middle mdc-layout-grid__cell--span-12"
+    >
+      <div
+        className="pr-field pr-field mdc-ripple-surface mdc-text-field mdc-text-field--upgraded"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        style={Object {}}
+      >
+        <input
+          className="mdc-text-field__input"
+          id="textfield-test"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onInput={[Function]}
+          onMouseDown={[Function]}
+          onTouchStart={[Function]}
+          style={Object {}}
+          type="text"
+        />
+        <label
+          className="mdc-floating-label"
+          htmlFor="textfield-test"
+          onAnimationEnd={[Function]}
+          style={Object {}}
+        >
+          User
+        </label>
+        <div
+          className="mdc-line-ripple "
+          onTransitionEnd={[Function]}
+          style={Object {}}
+        />
+      </div>
+      <div
+        className="pr-field pr-field mdc-ripple-surface mdc-text-field mdc-text-field--upgraded"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        style={Object {}}
+      >
+        <input
+          className="mdc-text-field__input"
+          id="textfield-test"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onInput={[Function]}
+          onMouseDown={[Function]}
+          onTouchStart={[Function]}
+          style={Object {}}
+          type="text"
+        />
+        <label
+          className="mdc-floating-label"
+          htmlFor="textfield-test"
+          onAnimationEnd={[Function]}
+          style={Object {}}
+        >
+          Repo
+        </label>
+        <div
+          className="mdc-line-ripple "
+          onTransitionEnd={[Function]}
+          style={Object {}}
+        />
+      </div>
+      <div
+        className="pr-field pr-field mdc-ripple-surface mdc-text-field mdc-text-field--upgraded"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        style={Object {}}
+      >
+        <input
+          className="mdc-text-field__input"
+          id="textfield-test"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onInput={[Function]}
+          onMouseDown={[Function]}
+          onTouchStart={[Function]}
+          style={Object {}}
+          type="number"
+          value={7}
+        />
+        <label
+          className="mdc-floating-label"
+          htmlFor="textfield-test"
+          onAnimationEnd={[Function]}
+          style={Object {}}
+        >
+          For days
+        </label>
+        <div
+          className="mdc-line-ripple "
+          onTransitionEnd={[Function]}
+          style={Object {}}
+        />
+      </div>
+    </div>
+    <div
+      className="mdc-layout-grid__cell mdc-layout-grid__cell--align-middle mdc-layout-grid__cell--span-4"
+    >
+      <button
+        className="mdc-button"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        style={Object {}}
+      >
+        <span
+          className="mdc-button__label"
+        >
+          Get Reports
+        </span>
+      </button>
+    </div>
+    <div
+      aria-modal={true}
+      className="mdc-dialog"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      role="alertdialog"
+      style={Object {}}
+    >
+      <div
+        className="mdc-dialog__container"
+      >
+        <div
+          className="mdc-dialog__surface"
+        >
+          <h2
+            className="mdc-dialog__title"
+          >
+            Reports
+          </h2>
+          <div
+            className="mdc-dialog__content"
+          >
+            TODO pass and render reports
+          </div>
+        </div>
+      </div>
+      <div
+        className="mdc-dialog__scrim"
+        style={Object {}}
+      />
+    </div>
+  </div>
+</div>
+`;
