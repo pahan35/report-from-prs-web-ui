@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`RequestReport 1`] = `
+exports[`RequestReport snapshot 1`] = `
 <div
   className="mdc-layout-grid"
 >
