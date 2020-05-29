@@ -175,7 +175,7 @@ exports[`RequestReport snapshot 1`] = `
           <div
             className="mdc-dialog__content"
           >
-            TODO pass and render reports
+            No reports yet
           </div>
         </div>
       </div>
